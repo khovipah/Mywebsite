@@ -1,0 +1,41 @@
+
+
+			body {
+				color: #666666;
+				background-image: url(th.jpg);
+				background-position: center;
+				font-family: Georgia, Times, serif;
+				line-height: 1.4em;
+				margin: 0px;}
+			header {
+				height: 160px;
+				background-color: blue;
+				background-image: url("oke.jpg");
+			}
+			h1 {
+				text-indent: -9999px;
+				width: 940px;
+				height: 130px;
+				margin: 0px;}
+
+			nav ul {
+				margin: 0px;
+				padding: 5px 0px 5px 30px;}
+			nav li {
+				display: inline;
+				margin-right: 40px;}
+			nav li a {
+				color: #ffffff;}
+			nav li a:hover, nav li a.current {
+				color: #000000;}
+
+
+			a {
+				color: #de6581;
+				text-decoration: none;}
+			h1 {
+
+				font-weight: normal;
+				}
+
+		
